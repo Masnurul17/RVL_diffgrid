@@ -267,15 +267,7 @@ rvl-diffgrid/
 
 If you use this work, please cite:
 
-```bibtex
-@inproceedings{achmadiah2026rvldiffgrid,
-  title     = {RVL-DiffGrid: Robust Vision-Language Diffusion for Counting with Hierarchical Semantic Grids},
-  author    = {Achmadiah, Mas Nurul and Agam, Muhammad Ridha and Sun, Chi-Chia and
-               Hsu, Mao-Hsiu and Kuo, Wen-Kai and Hsieh, Jun-Wei},
-  booktitle = {IEEE International Conference on Multimedia and Expo (ICME)},
-  year      = {2026}
-}
-```
+
 
 ## Acknowledgements
 
